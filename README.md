@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 Reach me on gideonotieno@gmail.com
+- gideonotieno.vercel.app
 
